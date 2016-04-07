@@ -1,0 +1,36 @@
+name: This week in Rust Docs
+title: This week in Rust Docs
+description: This week in Rust Docs website hosts newsletter written by rust docs team.
+avatar: https://www.rust-lang.org/logos/rust-logo-blk.svg
+
+#
+# Flags below are optional
+#
+
+footer-links:
+  github: guillaumegomez/this-week-in-rust-docs
+baseurl: "http://guillaumegomez.github.io/this-week-in-rust-docs/"
+url: "http://guillaumegomez.github.io/this-week-in-rust-docs/"
+
+permalink: /blog/:title
+
+# Jekyll 3 now only supports Kramdown for Markdown
+kramdown:
+  # Use GitHub flavored markdown, including triple backtick fenced code blocks
+  input: GFM
+  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    # Use existing pygments syntax highlighting css
+    css_class: 'highlight'
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - README.md
