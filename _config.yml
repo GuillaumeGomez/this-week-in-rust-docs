@@ -9,7 +9,7 @@ avatar: https://www.rust-lang.org/logos/rust-logo-blk.svg
 
 footer-links:
   github: guillaumegomez/this-week-in-rust-docs
-baseurl: "http://guillaumegomez.github.io/this-week-in-rust-docs/"
+baseurl: "http://guillaumegomez.github.io/this-week-in-rust-docs"
 url: "http://guillaumegomez.github.io/this-week-in-rust-docs/"
 
 permalink: /blog/:title
