@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Week in Rust Docs 1
-date: 2016-04-07
+date: 2016-04-11
 ---
 
 Hello and welcome to *This Week in Rust Docs*!
