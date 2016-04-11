@@ -13,7 +13,8 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Why this newsletter?
 
-After internal debates, we decided to create a Rust docs team as a trial to see how much we can improve Rust documentation. We'll have the following responsibilities:
+There isn't an official Rust docs team yet, but several of us have decided to start working as a team, even though it's not
+official. Here's what we'll be working on:
 
  * Working on the front-end part of rustdoc.
  * Working on error code explanations.
