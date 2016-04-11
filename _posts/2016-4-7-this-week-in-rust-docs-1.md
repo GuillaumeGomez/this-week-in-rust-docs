@@ -21,7 +21,7 @@ official. Here's what we'll be working on:
  * Improving Rust documentation.
  * Improving the Rustbook (also known as "The Book").
 
-Since documentation is a really important part of Rust, why not keeping people up-to-date about what's happening?
+Since documentation is a really important part of Rust, why not keep people up-to-date about what's happening?
 
 # Latest news
 
