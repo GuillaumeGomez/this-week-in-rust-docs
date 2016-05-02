@@ -17,9 +17,9 @@ Things are moving on: we talked about hosting crates' documentation directly whe
 
 The [pull request](https://github.com/rust-lang/rust/pull/32756) on the new rustc output is finally here (or almost)!
 
-[@jonathandturner](https://github.com/jonathandturner) and [@peschkaj](https://github.com/peschkaj) are working on a style guide in order to help crates to write their documentations.
+[@jonathandturner](https://github.com/jonathandturner) and [@peschkaj](https://github.com/peschkaj) are working on a style guide in order to help developers to write better library documentations.
 
-Besides this, [@peschkaj](https://github.com/peschkaj) investigated about the current doc status of the 20 biggest crates (based on number of downloads on [crates.io](https://crates.io)). Take a look at the report [INSERT HERE the report url OR the report content directly].
+Besides this, [@peschkaj](https://github.com/peschkaj) investigated the current doc status of the 20 biggest crates (based on number of downloads on [crates.io](https://crates.io)). Take a look at the report [The State of Rust Docs](https://facility9.com/2016/04/the-state-of-rust-docs-2016/).
 
 # Current opened issues
 
