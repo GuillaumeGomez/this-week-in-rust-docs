@@ -30,7 +30,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Recent doc contributions
 
-* [@birkenfeld](https://github.com/birkenfeld) improved explanations for [E0432](https://github.com/rust-lang/rust/pull/33220) and [E0269](https://github.com/rust-lang/rust/pull/33224).
+* [@birkenfeld](https://github.com/birkenfeld) improved explanations for [E0432](https://github.com/rust-lang/rust/pull/33320) and [E0269](https://github.com/rust-lang/rust/pull/33324).
 * [@timothy-mcroy](https://github.com/timothy-mcroy) added an explanation for [E0501](https://github.com/rust-lang/rust/pull/33294#event-650972625).
 * [@cristianoliveira](https://github.com/cristianoliveira) added an explanation for [E0455](https://github.com/rust-lang/rust/pull/33393).
 * [@cramertj](https://github.com/cramertj) added explanations for [E0506](https://github.com/rust-lang/rust/pull/33384) and [E0509](https://github.com/rust-lang/rust/pull/33383).
@@ -46,6 +46,7 @@ Waiting merge:
 
 And once again, beside all this, [@birkenfeld](https://github.com/birkenfeld) did a lot of wonderful improvements on rustdoc. Thanks to him!
 
+* [add "src" links to impls for types](https://github.com/rust-lang/rust/pull/33382)
 * [HTML-escape Rust code (from constants)](https://github.com/rust-lang/rust/pull/33372)
 * [fix inserting source code spans for constant values](https://github.com/rust-lang/rust/pull/33371)
 * [use btree map for where clauses](https://github.com/rust-lang/rust/pull/33373)
