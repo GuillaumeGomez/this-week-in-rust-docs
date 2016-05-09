@@ -39,11 +39,13 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 * [@GuillaumeGomez](https://github.com/rust-lang/rust/pull/33410) removed rust flags on code blocks displayed by "rustc --explain".
 
 Waiting merge:
+
 * [@cramertj](https://github.com/cramertj): [E0504](https://github.com/rust-lang/rust/pull/33386)
 * [@dfockler](https://github.com/dfockler): [E0374, E0375, E0376](https://github.com/rust-lang/rust/pull/33415)
 * [@billyevans](https://github.com/billyevans): [E0505](https://github.com/rust-lang/rust/pull/33475)
 
 And once again, beside all this, [@birkenfeld](https://github.com/birkenfeld) did a lot of wonderful improvements on rustdoc. Thanks to him!
+
 * [HTML-escape Rust code (from constants)](https://github.com/rust-lang/rust/pull/33372)
 * [fix inserting source code spans for constant values](https://github.com/rust-lang/rust/pull/33371)
 * [use btree map for where clauses](https://github.com/rust-lang/rust/pull/33373)
