@@ -11,11 +11,7 @@ layout: null
       {% unless post.link %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
+        <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%B %e, %Y" }}</pubDate>
         <link>{{ site.baseurl }}{{ post.url }}</link>
         <guid isPermaLink="true">{{ site.baseurl }}{{ post.url }}</guid>
