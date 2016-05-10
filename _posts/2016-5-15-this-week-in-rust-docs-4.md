@@ -13,6 +13,7 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
+The whole new error format landed! Take a look [here](https://internals.rust-lang.org/t/new-error-format/3438) for more information.
 
 # Current opened issues
 
