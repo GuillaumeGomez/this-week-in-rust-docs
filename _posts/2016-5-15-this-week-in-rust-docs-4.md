@@ -35,7 +35,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 * [@Manishearth](https://github.com/Manishearth) added explanations for [E0408 and E0409](https://github.com/rust-lang/rust/pull/33493). He also merged E0410 into E0408.
 
 * [@cramertj](https://github.com/cramertj) added explanation for [E0389](https://github.com/rust-lang/rust/pull/33412).
-* [@GuillaumeGomez](https://github.com/rust-lang/rust/pull/33410) added explanation for [E0500](https://github.com/rust-lang/rust/pull/33533) and added ["extend-css" option](https://github.com/rust-lang/cargo/pull/2664) to Cargo.
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added explanation for [E0500](https://github.com/rust-lang/rust/pull/33533) and added ["extend-css" option](https://github.com/rust-lang/cargo/pull/2664) to Cargo. He also improved the help for the [Makefile](https://github.com/rust-lang/rust/pull/33489).
 
 Waiting merge:
 
@@ -50,6 +50,8 @@ Waiting merge:
 * [inject `#[macro_use] extern crate` in doctests for macros](https://github.com/rust-lang/rust/pull/33511)
 * [remove artificial indentation of doctest code ](https://github.com/rust-lang/rust/pull/33512)
 * [add a "primitive type reference" page](https://github.com/rust-lang/rust/pull/33516)
+
+And once again, [@GuillaumeGomez](https://github.com/GuillaumeGomez) worked on the [rustdoc CSS](https://github.com/rust-lang/rust/pull/33542).
 
 # Meetings
 
