@@ -15,6 +15,8 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 The whole new error format landed! Take a look [here](https://internals.rust-lang.org/t/new-error-format/3438) for more information.
 
+[@peschakj](https://github.com/peschkaj) posted [Writing Documentation in Rust](https://facility9.com/2016/05/writing-documentation-in-rust/).
+
 # Current opened issues
 
 For now, here are the two big issues opened for Rust documentation:
@@ -28,20 +30,11 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Recent doc contributions
 
-* [@birkenfeld](https://github.com/birkenfeld) improved explanations for [E0432](https://github.com/rust-lang/rust/pull/33320) and [E0269](https://github.com/rust-lang/rust/pull/33324).
-* [@timothy-mcroy](https://github.com/timothy-mcroy) added an explanation for [E0501](https://github.com/rust-lang/rust/pull/33294#event-650972625).
-* [@cristianoliveira](https://github.com/cristianoliveira) added an explanation for [E0455](https://github.com/rust-lang/rust/pull/33393).
-* [@steveklabnik](https://github.com/steveklabnik) wrote the whole new [enums chapter](https://github.com/rust-lang/book/pull/98/files) for the new rust book!
-* [@Manishearth](https://github.com/Manishearth) added explanations for [E0408 and E0409](https://github.com/rust-lang/rust/pull/33493). He also merged E0410 into E0408.
-
 * [@cramertj](https://github.com/cramertj) added explanation for [E0389](https://github.com/rust-lang/rust/pull/33412).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added explanation for [E0500](https://github.com/rust-lang/rust/pull/33533) and added ["extend-css" option](https://github.com/rust-lang/cargo/pull/2664) to Cargo. He also improved the help for the [Makefile](https://github.com/rust-lang/rust/pull/33489).
-
-Waiting merge:
-
-* [@cramertj](https://github.com/cramertj): [E0504](https://github.com/rust-lang/rust/pull/33386)
-* [@dfockler](https://github.com/dfockler): [E0374, E0375, E0376](https://github.com/rust-lang/rust/pull/33415)
-* [@billyevans](https://github.com/billyevans): [E0505](https://github.com/rust-lang/rust/pull/33475)
+* [@dfockler](https://github.com/dfockler) added explanation for [E0374, E0375, E0376](https://github.com/rust-lang/rust/pull/33415).
+* [@billyevans](https://github.com/billyevans) added explanation for [E0505](https://github.com/rust-lang/rust/pull/33475).
+* [@cramertj](https://github.com/cramertj) added explanation for [E0504](https://github.com/rust-lang/rust/pull/33386).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added explanation for [E0500](https://github.com/rust-lang/rust/pull/33533), improved the help for the [Makefile](https://github.com/rust-lang/rust/pull/33489), added [lifetime's bounds display in generated documentation](https://github.com/rust-lang/rust/pull/33656), added [more details and examples in error codes](https://github.com/rust-lang/rust/pull/33584) and added [compile-fail tests for error codes](https://github.com/rust-lang/rust/pull/33585).
 
 [@birkenfeld](https://github.com/birkenfeld) continues his awesome work on rustdoc:
 
