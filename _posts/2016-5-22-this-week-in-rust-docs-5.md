@@ -13,7 +13,9 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-Not for for now.
+The [Normalization for long error codes explanations RFC](https://github.com/rust-lang/rfcs/pull/1567) entered its final comment period!
+
+[@pnkfelix](https://github.com/pnkfelix) proposed a [wonderful idea](https://github.com/rust-lang/rust/pull/33675#issuecomment-219609913). I think we'll try to put it in place! :p
 
 # Current opened issues
 
@@ -28,7 +30,10 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Recent doc contributions
 
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed a [CSS bug](https://github.com/rust-lang/rust/pull/33673).
+* [@golddranks](https://github.com/golddranks) added [a big-picture explanation for thread::park() & co.](https://github.com/rust-lang/rust/pull/33665).
+* [@rkruppe](https://github.com/rkruppe) reworded the [short diagnostic for E0509](https://github.com/rust-lang/rust/pull/33676).
+* [@tshepang](https://github.com/tshepang) made a lot of small improvements. Take a look [here](https://github.com/rust-lang/rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+33603+33604+33605+33633+33634+33635) to see the list!
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [lifetime's bounds in doc generation](https://github.com/rust-lang/rust/pull/33656) and fixed a [CSS bug](https://github.com/rust-lang/rust/pull/33673).
 
 # Meetings
 
