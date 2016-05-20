@@ -36,6 +36,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Recent doc contributions
 
+* [@lqd](https://github.com/lqd) made [the #[stable(since)] version attribute clearer with a tooltip](https://github.com/rust-lang/rust/pull/33705).
 * [@golddranks](https://github.com/golddranks) added [a big-picture explanation for thread::park() & co.](https://github.com/rust-lang/rust/pull/33665).
 * [@rkruppe](https://github.com/rkruppe) reworded the [short diagnostic for E0509](https://github.com/rust-lang/rust/pull/33676).
 * [@tshepang](https://github.com/tshepang) made a lot of small improvements. Take a look [here](https://github.com/rust-lang/rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+33603+33604+33605+33633+33634+33635) to see the list!
