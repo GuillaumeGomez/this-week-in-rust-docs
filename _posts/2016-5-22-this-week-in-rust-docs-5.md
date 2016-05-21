@@ -36,6 +36,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Recent doc contributions
 
+* [@Manishearth](https://github.com/Manishearth) added [doc snippets for trait impls, with a read more link](https://github.com/rust-lang/rust/pull/33679)
 * [@lqd](https://github.com/lqd) made [the #[stable(since)] version attribute clearer with a tooltip](https://github.com/rust-lang/rust/pull/33705).
 * [@golddranks](https://github.com/golddranks) added [a big-picture explanation for thread::park() & co.](https://github.com/rust-lang/rust/pull/33665).
 * [@rkruppe](https://github.com/rkruppe) reworded the [short diagnostic for E0509](https://github.com/rust-lang/rust/pull/33676).
