@@ -21,7 +21,7 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 The [Normalization for long error codes explanations RFC](https://github.com/rust-lang/rfcs/pull/1567) entered its final comment period!
 
-[@pnkfelix](https://github.com/pnkfelix) proposed a [wonderful idea](https://github.com/rust-lang/rust/pull/33675#issuecomment-219609913). I think we'll try to put it in place! :p
+[@pnkfelix](https://github.com/pnkfelix) proposed [to rewrite all the code examples to be song of fire and internal-compiler-error themed](https://github.com/rust-lang/rust/pull/33675#issuecomment-219609913). I think we'll try to put it in place! :p
 
 # Current opened issues
 
