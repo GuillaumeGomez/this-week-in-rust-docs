@@ -44,7 +44,7 @@ We had a busy week, thanks to all contributors!
 * [@rkruppe](https://github.com/rkruppe) reworded the [short diagnostic for E0509](https://github.com/rust-lang/rust/pull/33676).
 * [@tshepang](https://github.com/tshepang) made a lot of small improvements. Take a look [here](https://github.com/rust-lang/rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+33603+33604+33605+33633+33634+33635) to see the list!
 * [@alex-ozdemir](https://github.com/alex-ozdemir) added [a `rustdoc` shortcut for collapse/expand all](https://github.com/rust-lang/rust/pull/33765).
-* [@postmodern](https://github.com/postmodern) clarified [the English translation of `?Sized`](https://github.com/rust-lang/rust/pull/33746).
+* [@postmodern](https://github.com/postmodern) clarified [the English translation of `?Sized`](https://github.com/rust-lang/rust/pull/33747).
 * [@crimsun](https://github.com/crimsun) resolved [a rustdoc crash](https://github.com/rust-lang/rust/pull/33702).
 * [@dns2utf8](https://github.com/dns2utf8) clarified [docs for sort(&mut self)](https://github.com/rust-lang/rust/pull/33746).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [lifetime's bounds in doc generation](https://github.com/rust-lang/rust/pull/33656), fixed [compile_fail tag](https://github.com/rust-lang/rust/pull/33793), added [new error code tests](https://github.com/rust-lang/rust/pull/33781), updated [repr_simd feature in errors explanation](https://github.com/rust-lang/rust/pull/33779) and fixed a [CSS bug](https://github.com/rust-lang/rust/pull/33673).
