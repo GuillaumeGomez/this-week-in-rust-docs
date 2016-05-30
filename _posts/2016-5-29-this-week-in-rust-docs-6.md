@@ -36,15 +36,15 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Waiting merge
 
-* [@kennytm](https://github.com/kennytm) improved [`fs::read_dir()` example](https://github.com/rust-lang/rust/pull/33958).
 * [@zackmdavis](https://github.com/zackmdavis) added [explanation for E0429](https://github.com/rust-lang/rust/pull/33955).
 * [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@cristianoliveira](https://github.com/cristianoliveira) added [E0174 error explanation](https://github.com/rust-lang/rust/pull/33920).
-* [@oli-obk](https://github.com/oli-obk) added [display for enum variant fields in docs](https://github.com/rust-lang/rust/pull/33867).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid trait generation in rustdoc](https://github.com/rust-lang/rust/pull/33935), added [new error code tests](https://github.com/rust-lang/rust/pull/33915), improved [help message for E0425](https://github.com/rust-lang/rust/pull/33878).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid trait generation in rustdoc](https://github.com/rust-lang/rust/pull/33935), added [new error code tests](https://github.com/rust-lang/rust/pull/33915) and  improved [help message for E0425](https://github.com/rust-lang/rust/pull/33878).
 
 # Recent doc contributions
 
+* [@oli-obk](https://github.com/oli-obk) added [display for enum variant fields in docs](https://github.com/rust-lang/rust/pull/33867).
+* [@kennytm](https://github.com/kennytm) improved [`fs::read_dir()` example](https://github.com/rust-lang/rust/pull/33958).
 * [@Ophirr33](https://github.com/Ophirr33) added [examples/docs to split in str.rs](https://github.com/rust-lang/rust/pull/33893).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) improved [E0084](https://github.com/rust-lang/rust/pull/33865), , added [new error code tests](https://github.com/rust-lang/rust/pull/33866), fixed [invalid background color in stability elements](https://github.com/rust-lang/rust/pull/33829), fixed [compile_fail tag](https://github.com/rust-lang/rust/pull/33793) and also added [E0132](https://github.com/rust-lang/rust/pull/33912), [E0133](https://github.com/rust-lang/rust/pull/33913) and a few [others](https://github.com/rust-lang/rust/pull/33914) errors explanation.
 
