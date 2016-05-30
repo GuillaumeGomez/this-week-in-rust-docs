@@ -19,9 +19,9 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-The [Normalization for long error codes explanations RFC](https://github.com/rust-lang/rfcs/pull/1567) entered its final comment period!
+The [Normalization for long error codes explanations RFC](https://github.com/rust-lang/rfcs/pull/1567) is still in its final comment period!
 
-[@pnkfelix](https://github.com/pnkfelix) proposed [to rewrite all the code examples to be song of fire and internal-compiler-error themed](https://github.com/rust-lang/rust/pull/33675#issuecomment-219609913). I think we'll try to put it in place! :p
+The "doc days" are still in the center of our last meetings. More information will come soon!
 
 # Current opened issues
 
@@ -34,22 +34,19 @@ They both need help to move forward so any contribution is very welcome!
 
 There are currently around 50 other documentation issues opened. Look for [A-docs](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs) tagged issues on github!
 
+# Waiting merge
+
+* [@kennytm](https://github.com/kennytm) improved [`fs::read_dir()` example](https://github.com/rust-lang/rust/pull/33958).
+* [@zackmdavis](https://github.com/zackmdavis) added [explanation for E0429](https://github.com/rust-lang/rust/pull/33955).
+* [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
+* [@cristianoliveira](https://github.com/cristianoliveira) added [E0174 error explanation](https://github.com/rust-lang/rust/pull/33920).
+* [@oli-obk](https://github.com/oli-obk) added [display for enum variant fields in docs](https://github.com/rust-lang/rust/pull/33867).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid trait generation in rustdoc](https://github.com/rust-lang/rust/pull/33935), added [new error code tests](https://github.com/rust-lang/rust/pull/33915), improved [help message for E0425](https://github.com/rust-lang/rust/pull/33878).
+
 # Recent doc contributions
 
-We had a busy week, thanks to all contributors!
-
-* [@Manishearth](https://github.com/Manishearth) added [doc snippets for trait impls, with a read more link](https://github.com/rust-lang/rust/pull/33679)
-* [@lqd](https://github.com/lqd) made [the #[stable(since)] version attribute clearer with a tooltip](https://github.com/rust-lang/rust/pull/33705).
-* [@golddranks](https://github.com/golddranks) added [a big-picture explanation for thread::park() & co.](https://github.com/rust-lang/rust/pull/33665).
-* [@rkruppe](https://github.com/rkruppe) reworded the [short diagnostic for E0509](https://github.com/rust-lang/rust/pull/33676).
-* [@tshepang](https://github.com/tshepang) made a lot of small improvements. Take a look [here](https://github.com/rust-lang/rust/pulls?utf8=%E2%9C%93&q=is%3Apr+is%3Aclosed+33603+33604+33605+33633+33634+33635) to see the list!
-* [@alex-ozdemir](https://github.com/alex-ozdemir) added [a `rustdoc` shortcut for collapse/expand all](https://github.com/rust-lang/rust/pull/33765).
-* [@postmodern](https://github.com/postmodern) clarified [the English translation of `?Sized`](https://github.com/rust-lang/rust/pull/33747).
-* [@crimsun](https://github.com/crimsun) resolved [a rustdoc crash](https://github.com/rust-lang/rust/pull/33702).
-* [@dns2utf8](https://github.com/dns2utf8) clarified [docs for sort(&mut self)](https://github.com/rust-lang/rust/pull/33746).
-
-* [@oli-obk](https://github.com/oli-obk) added [display for enum variant fields in docs](https://github.com/rust-lang/rust/pull/33867).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) improved [E0084 error explanation](https://github.com/rust-lang/rust/pull/33865), fixed [compile_fail tag](https://github.com/rust-lang/rust/pull/33793), added [new error code tests](https://github.com/rust-lang/rust/pull/33866), fixed [invalid background color in stability elements](https://github.com/rust-lang/rust/pull/33829).
+* [@Ophirr33](https://github.com/Ophirr33) added [examples/docs to split in str.rs](https://github.com/rust-lang/rust/pull/33893).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) improved [E0084](https://github.com/rust-lang/rust/pull/33865), , added [new error code tests](https://github.com/rust-lang/rust/pull/33866), fixed [invalid background color in stability elements](https://github.com/rust-lang/rust/pull/33829), fixed [compile_fail tag](https://github.com/rust-lang/rust/pull/33793) and also added [E0132](https://github.com/rust-lang/rust/pull/33912), [E0133](https://github.com/rust-lang/rust/pull/33913) and a few [others](https://github.com/rust-lang/rust/pull/33914) errors explanation.
 
 # Meetings
 
