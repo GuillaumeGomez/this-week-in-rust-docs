@@ -19,7 +19,7 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-The "doc days" event is now set for the end of June! Any contribution is very welcome. You can find more information [here](https://facility9.com/2016/06/announcing-rust-doc-days/).
+The "doc days" event is now set for the 24th and 25th of June! Any contribution is very welcome. You can find more information [here](https://facility9.com/2016/06/announcing-rust-doc-days/).
 
 # Current opened issues
 
@@ -32,7 +32,7 @@ They both need help to move forward so any contribution is very welcome!
 
 There are currently around 50 other documentation issues opened. Look for [A-docs](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs) tagged issues on github!
 
-# Waiting merge
+# Waiting for merge
 
 * [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid trait generation in rustdoc](https://github.com/rust-lang/rust/pull/33935).
