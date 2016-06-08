@@ -41,7 +41,8 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 # Recent doc contributions
 
 * [@MichaelNecio](https://github.com/MichaelNecio) noted that [shadowing never destroys a value](https://github.com/rust-lang/rust/pull/34125).
-* [@hoodie](https://github.com/hoodie) fixed [bad spelling of "Jon Snow"](https://github.com/rust-lang/rust/pull/34134). (Damn! It was a close call!!)
+* [@hoodie](https://github.com/hoodie) fixed [bool color](https://github.com/rust-lang/rust/pull/34138) and fixed [bad spelling of "Jon Snow"](https://github.com/rust-lang/rust/pull/34134). (Damn! It was a close call!!)
+* * [@withoutboats](https://github.com/withoutboats) corrected [the docs on str::trim_matches](https://github.com/rust-lang/rust/pull/33645)
 * [@ollie27](https://github.com/ollie27) fixed [rustdoc static and const generation of redirect pages](https://github.com/rust-lang/rust/pull/34068).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) .
 
