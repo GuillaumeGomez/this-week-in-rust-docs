@@ -38,7 +38,6 @@ The [following issue](https://github.com/rust-lang/rust/issues/33772) (a really 
 
 # Waiting for merge
 
-* [@m-decoster](https://github.com/m-decoster) added explanations for [E0503 and E0508](https://github.com/rust-lang/rust/pull/34133).
 * [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@ollie27](https://github.com/ollie27) removed [Remove Derived Implementations title](https://github.com/rust-lang/rust/pull/34105), fixed [redirect pages for renamed reexports](https://github.com/rust-lang/rust/pull/34245) and removed [inline for `#[doc(hidden)] pub use`](https://github.com/rust-lang/rust/pull/34232).
 * [@cynicaldevil](https://github.com/cynicaldevil) added [explanation for E0406](https://github.com/rust-lang/rust/pull/34230).
@@ -47,6 +46,7 @@ The [following issue](https://github.com/rust-lang/rust/issues/33772) (a really 
 
 # Recent doc contributions
 
+* [@m-decoster](https://github.com/m-decoster) added explanations for [E0503 and E0508](https://github.com/rust-lang/rust/pull/34133).
 * [@hoodie](https://github.com/hoodie) fixed [bool color](https://github.com/rust-lang/rust/pull/34138) and fixed [bad spelling of "Jon Snow" and "Night's Watch"](https://github.com/rust-lang/rust/pull/34160). (Damn! It was a close call!!)
 * [@MichaelNecio](https://github.com/MichaelNecio) noted that [shadowing never destroys a value](https://github.com/rust-lang/rust/pull/34125).
 * [@matklad](https://github.com/matklad) simplified [wording](https://github.com/rust-lang/rust/pull/34145).
