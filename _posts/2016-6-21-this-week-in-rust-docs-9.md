@@ -38,7 +38,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Call for participation
 
-The [following issue](https://github.com/rust-lang/rust/issues/33772) (a really important one!) is blocked for the moment. Any help on it would be very appreciated!
+The [following issue](https://github.com/rust-lang/rust/issues/33772) (a really important one!) is blocked for the moment. The goal is to generate all missing functions for types. Any help on it would be very appreciated!
 
 # Waiting for merge
 
