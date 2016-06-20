@@ -38,7 +38,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Call for participation
 
-The [following issue](https://github.com/rust-lang/rust/issues/33772) (a really important one!) is blocked for the moment. The goal is to generate all missing functions for types. Any help on it would be very appreciated!
+There's now a call for participation to [display all methods of a type, even those from implicit traits](https://github.com/rust-lang/rust/issues/33772). This is a great way to help users find everything that a type can do. Any help on it would be very appreciated!
 
 # Waiting for merge
 
