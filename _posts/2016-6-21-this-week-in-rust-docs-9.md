@@ -44,7 +44,7 @@ There's now a call for participation to [display all methods of a type, even tho
 
 * [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@ollie27](https://github.com/ollie27) removed [Remove Derived Implementations title](https://github.com/rust-lang/rust/pull/34105) and added [more types to the rustdoc sidebar](https://github.com/rust-lang/rust/pull/34372).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) implemented [the error code checker](https://github.com/rust-lang/rust/pull/34186).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) .
 
 # Recent doc contributions
 
@@ -53,7 +53,7 @@ There's now a call for participation to [display all methods of a type, even tho
 * [@tshepang](https://github.com/tshepang) fixed [mis-named binding & remove not needed `mut`](https://github.com/rust-lang/rust/pull/34314).
 * [@fbergr](https://github.com/fbergr) fixed [a typo](https://github.com/rust-lang/rust/pull/34259).
 * [@ollie27](https://github.com/ollie27) fixed [redirect pages for renamed reexports](https://github.com/rust-lang/rust/pull/34245), added [short summaries to btree modules](https://github.com/rust-lang/rust/pull/34335), added [stability notices to impl items](https://github.com/rust-lang/rust/pull/34292), improved [IP reserved address docs](https://github.com/rust-lang/rust/pull/34263), fixed [redirect pages for renamed reexports in rustdoc](https://github.com/rust-lang/rust/pull/34245) and removed [inline for `#[doc(hidden)] pub use`](https://github.com/rust-lang/rust/pull/34232).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid inlining](https://github.com/rust-lang/rust/pull/34234) and removed [unused E0406 and unused functions](https://github.com/rust-lang/rust/pull/34342).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid inlining](https://github.com/rust-lang/rust/pull/34234), removed [unused E0406 and unused functions](https://github.com/rust-lang/rust/pull/34342) and implemented [the error code checker](https://github.com/rust-lang/rust/pull/34186).
 
 # Meetings
 
