@@ -44,7 +44,7 @@ There's now a call for participation to [display all methods of a type, even tho
 
 * [@estebank](https://github.com/estebank) added [specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@ollie27](https://github.com/ollie27) removed [Remove Derived Implementations title](https://github.com/rust-lang/rust/pull/34105) and added [more types to the rustdoc sidebar](https://github.com/rust-lang/rust/pull/34372).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) .
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [error code flags](https://github.com/rust-lang/rust/pull/34401).
 
 # Recent doc contributions
 
