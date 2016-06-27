@@ -23,7 +23,7 @@ The "doc days" event is now over. Thanks to everyone who contributed! Here is a 
 
 * [tempdir](https://github.com/rust-lang-nursery/tempdir/pull/11)
 * [unix-socket](https://github.com/rust-lang-nursery/unix-socket/pull/26)
-* [uuid (1)](https://github.com/rust-lang-nursery/uuid/pull/65/files) and [uuid (2)](https://github.com/rust-lang-nursery/uuid/pull/64)
+* [uuid (1)](https://github.com/rust-lang-nursery/uuid/pull/65) and [uuid (2)](https://github.com/rust-lang-nursery/uuid/pull/64)
 * [glob](https://github.com/rust-lang-nursery/glob/pull/53)
 * [rand](https://github.com/rust-lang-nursery/rand/pull/106)
 * [rustc-serialize](https://github.com/rust-lang-nursery/rustc-serialize/pull/153)
