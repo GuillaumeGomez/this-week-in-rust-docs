@@ -19,11 +19,11 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-A [post](https://facility9.com/2016/07/rust-doc-days-follow-up/) has been wrote about the rust doc days, thanks to [@peschkaj](https://github.com/peschkaj)!
+A [post](https://facility9.com/2016/07/rust-doc-days-follow-up/) has been wrote about The Rust Doc Days, thanks to [@peschkaj](https://github.com/peschkaj)!
 
 # Current opened issues
 
-For now, here are the two big issues opened for Rust documentation:
+For now, here are the two big issues for Rust documentation:
 
 * [The Standard Library Documentation Checklist](https://github.com/rust-lang/rust/issues/29329)
 * [Add error explanations for all error codes](https://github.com/rust-lang/rust/issues/32777)
@@ -34,7 +34,7 @@ There are currently around 50 other documentation issues opened. Look for [A-doc
 
 # Call for participation
 
-There's now a call for participation to [display all methods of a type, even those from implicit traits](https://github.com/rust-lang/rust/issues/33772). This is a great way to help users find everything that a type can do. Any help on it would be very appreciated!
+There's now a call for participation to [display all methods of a type, even those from implicit traits in rustdoc](https://github.com/rust-lang/rust/issues/33772). This is a great way to help users find everything that a type can do. Any help on it would be very appreciated!
 
 # Waiting for merge
 
