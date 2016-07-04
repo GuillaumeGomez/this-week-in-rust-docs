@@ -19,7 +19,7 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-In the last team meeting (renamed "schrodinger's doc meeting", thanks for the idea [@jonathandturner](https://github.com/jonathandturner) for the idea!), we mainly talked about The Rust Doc Days. The feedback is globally good but I'll let read the great [post](https://facility9.com/2016/07/rust-doc-days-follow-up/) that [@peschkaj](https://github.com/peschkaj) wrote about it.
+In the last team meeting (renamed "schrodinger's doc meeting", thanks for the idea [@jonathandturner](https://github.com/jonathandturner)!), we mainly talked about The Rust Doc Days. The feedback is globally good but I'll let read the great [post](https://facility9.com/2016/07/rust-doc-days-follow-up/) that [@peschkaj](https://github.com/peschkaj) wrote about it.
 
 # Current opened issues
 
