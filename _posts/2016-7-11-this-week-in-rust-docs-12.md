@@ -53,6 +53,7 @@ There's now a call for participation to [display all methods of a type, even tho
 * [@sylvestre](https://github.com/sylvestre) fixed [typos](https://github.com/rust-lang/rust/pull/34626).
 * [@durka](https://github.com/durka) documented [DoubleEndedIterator::next_back](https://github.com/rust-lang/rust/pull/34732).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez), added [examples for std::Error module](https://github.com/rust-lang/rust/pull/34750), improved [std::any module doc](https://github.com/rust-lang/rust/pull/34749), added [missing examples for std::cell types](https://github.com/rust-lang/rust/pull/34736), removed [an invalid CSS rule for doc titles](https://github.com/rust-lang/rust/pull/34685), improved [boxed docs](https://github.com/rust-lang/rust/pull/34740), improved [slice docs](https://github.com/rust-lang/rust/pull/34725). fixed [`std::path::Path::file_name()` doc](https://github.com/rust-lang/rust/pull/34659), removed [an useless doc comment for slice](https://github.com/rust-lang/rust/pull/34723) and improved [DoubleEndedIterator examples](https://github.com/rust-lang/rust/pull/34688).
+* [@llogiq](https://github.com/llogiq) improved the [internal documentation of HIR](https://github.com/rust-lang/rust/pull/34521)
 
 # Meetings
 
