@@ -19,7 +19,7 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
-A topic to propose crates for the Rust Doc Days has been created [here]().
+A topic to propose crates for the Rust Doc Days has been created [here](https://users.rust-lang.org/t/call-for-proposals-for-next-rust-doc-days-crates/6685).
 
 # Current opened issues
 
