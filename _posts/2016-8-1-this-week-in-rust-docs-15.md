@@ -19,6 +19,8 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 # Latest news
 
+A new RFC has been opened: [Add API documentation front page styleguide](https://github.com/rust-lang/rfcs/pull/1687).
+
 A topic to propose crates for the Rust Doc Days has been created [here](https://users.rust-lang.org/t/call-for-proposals-for-next-rust-doc-days-crates/6685). Please take a look!
 
 # Current opened issues
