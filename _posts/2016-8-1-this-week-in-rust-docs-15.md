@@ -44,7 +44,7 @@ There's now a call for participation to [display all methods of a type, even tho
 * [@jhod0](https://github.com/jhod0) added [diagnostics for rustc_metadata](https://github.com/rust-lang/rust/pull/34970).
 * [@nrc](https://github.com/nrc) simplified [rustdoc URLs](https://github.com/rust-lang/rust/pull/35020).
 * [@Manishearth](https://github.com/Manishearth) clarified [UnsafeCell docs](https://github.com/rust-lang/rust/pull/34520).
-* [@estebank](https://github.com/estebank) added [a specific error message for missplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
+* [@estebank](https://github.com/estebank) added [a specific error message for misplaced doc comments](https://github.com/rust-lang/rust/pull/33922).
 * [@ollie27](https://github.com/ollie27) removed [item types from some title pages from rustdoc](https://github.com/rust-lang/rust/pull/35003).
 * [@steveklabnik](https://github.com/steveklabnik) made it clear that [the reference isn't normative](https://github.com/rust-lang/rust/pull/35102).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [doc examples for FileType struct](https://github.com/rust-lang/rust/pull/35076), added [`io::Error` doc examples](https://github.com/rust-lang/rust/pull/35109) and fixed [formatting generation for rustdoc code examples](https://github.com/rust-lang/rust/pull/35012).
