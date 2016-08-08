@@ -79,20 +79,22 @@ This week, I'll split between the [new error code format](https://github.com/rus
 * [@jaredwy](https://github.com/jaredwy): [E0069](https://github.com/rust-lang/rust/pull/35351)
 * [@birryree](https://github.com/birryree): [E0368](https://github.com/rust-lang/rust/pull/35350), [E0060 and E0061](https://github.com/rust-lang/rust/pull/35289)
 * [@nickmass](https://github.com/nickmass): [E0055](https://github.com/rust-lang/rust/pull/35333)
-* [@circuitfox](https://github.com/circuitfox): [E0119](https://github.com/rust-lang/rust/pull/35326), [E0110](https://github.com/rust-lang/rust/pull/35299)
+* [@circuitfox](https://github.com/circuitfox): [E0119](https://github.com/rust-lang/rust/pull/35326), [E0110](https://github.com/rust-lang/rust/pull/35299), [E0109](https://github.com/rust-lang/rust/pull/35266)
 * [@sciyoshi](https://github.com/sciyoshi): [E0124](https://github.com/rust-lang/rust/pull/35318)
 * [@yossi-k](https://github.com/yossi-k): [E0185 and E0186](https://github.com/rust-lang/rust/pull/35314), [E0079](https://github.com/rust-lang/rust/pull/35291)
 * [@saml](https://github.com/saml): [E0001](https://github.com/rust-lang/rust/pull/35297)
 * [@Roybie](https://github.com/Roybie): [E0172](https://github.com/rust-lang/rust/pull/35294), [E0166](https://github.com/rust-lang/rust/pull/35288)
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez): [E0132](https://github.com/rust-lang/rust/pull/35264)
 
 Others contributions:
 
+* [@dns2utf8](https://github.com/dns2utf8) added [doc for `std::thread::park_timeout`](https://github.com/rust-lang/rust/pull/35239).
 * [@shantanuraj](https://github.com/shantanuraj) updated [wording on E0080](https://github.com/rust-lang/rust/pull/35283).
-* [@apasel422](https://github.com/apasel422) cleaned up [`std::raw` docs](https://github.com/rust-lang/rust/pull/35281).
-* [@frewsxcv](https://github.com/frewsxcv) added [doc example for `std::ffi::NulError::into_vec`](https://github.com/rust-lang/rust/pull/35436), added [doc examples for `range::RangeArgument::{start,end}`](https://github.com/rust-lang/rust/pull/35041) and rewrote [`slice::chunks` doc example to not require printing](https://github.com/rust-lang/rust/pull/35134).
+* [@apasel422](https://github.com/apasel422) added [doc example for `std::ffi::NulError::nul_position`](https://github.com/rust-lang/rust/pull/35182), cleaned up [`std::raw` docs](https://github.com/rust-lang/rust/pull/35281).
+* [@frewsxcv](https://github.com/frewsxcv) added [doc example for `std::ffi::NulError::into_vec`](https://github.com/rust-lang/rust/pull/35436), made [a couple `std::net` doc improvements](https://github.com/rust-lang/rust/pull/35175), rewrote [rewrite `slice::chunks` doc example to not require printing](https://github.com/rust-lang/rust/pull/35134), added [doc examples for `range::RangeArgument::{start,end}`](https://github.com/rust-lang/rust/pull/35041) and rewrote [`slice::chunks` doc example to not require printing](https://github.com/rust-lang/rust/pull/35134).
 * [@jongiddy](https://github.com/jongiddy) provide [a more explicit example of wildcard version in guessing game doc](https://github.com/rust-lang/rust/pull/35137).
 * [@Manishearth](https://github.com/Manishearth) clarified [UnsafeCell docs](https://github.com/rust-lang/rust/pull/34520).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [doc examples for FileType struct](https://github.com/rust-lang/rust/pull/35076), added [`io::Error` doc examples](https://github.com/rust-lang/rust/pull/35109), added [new error codes](https://github.com/rust-lang/rust/pull/35393) and added even more [error code tests](https://github.com/rust-lang/rust/pull/35363) and added even even more [error code tests](https://github.com/rust-lang/rust/pull/35274).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [doc examples for FileType struct](https://github.com/rust-lang/rust/pull/35076), added [`io::Error` doc examples](https://github.com/rust-lang/rust/pull/35109), added [doc example for `Vec`](https://github.com/rust-lang/rust/pull/35181), added [new error codes](https://github.com/rust-lang/rust/pull/35393) and added even more [error code tests](https://github.com/rust-lang/rust/pull/35363) and added even even more [error code tests](https://github.com/rust-lang/rust/pull/35274).
 
 # Meetings
 
