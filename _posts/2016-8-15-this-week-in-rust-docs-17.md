@@ -21,6 +21,8 @@ This week's edition was edited by: [GuillaumeGomez](https://github.com/Guillaume
 
 The [doc team RFC](https://github.com/rust-lang/rfcs/pull/1683#issuecomment-237384575) has been merged. The rust doc team is now official! Take a look [here](https://www.rust-lang.org/en-US/team.html#Documentation-team).
 
+Please take a look [to the next rust doc days planning reminder](https://users.rust-lang.org/t/reminder-planning-the-next-rust-doc-days/6901).
+
 A new RFC has been opened: [Add API documentation front page styleguide](https://github.com/rust-lang/rfcs/pull/1687).
 
 The topic to propose crates for the Rust Doc Days is still open and waiting for contributions [here](https://users.rust-lang.org/t/call-for-proposals-for-next-rust-doc-days-crates/6685). Please take a look!
