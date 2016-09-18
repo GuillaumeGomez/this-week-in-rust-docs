@@ -61,7 +61,7 @@ This week (too), I'll split between the [new error code format](https://github.c
 
 Other contributions:
 
-* [@kmcallister](https://github.com/kmcallister) tweaked [std::mem docs](https://github.com/rust-lang/rust/pull/36357), tweaked [array docs](https://github.com/rust-lang/rust/pull/36402) qnd tweaked [std::marker docs](https://github.com/rust-lang/rust/pull/36424).
+* [@kmcallister](https://github.com/kmcallister) tweaked [std::mem docs](https://github.com/rust-lang/rust/pull/36357), tweaked [array docs](https://github.com/rust-lang/rust/pull/36402) and tweaked [std::marker docs](https://github.com/rust-lang/rust/pull/36424).
 * [@Mark-Simulacrum](https://github.com/Mark-Simulacrum) fixed [language in documentation comment](https://github.com/rust-lang/rust/pull/36521), added [example in AsMut trait documentation](https://github.com/rust-lang/rust/pull/36519).
 * [@kylog](https://github.com/kylog) fixed [a typo in The Book](https://github.com/rust-lang/rust/pull/36380).
 * [@tshepang](https://github.com/tshepang) improved [wording](https://github.com/rust-lang/rust/pull/36480).
