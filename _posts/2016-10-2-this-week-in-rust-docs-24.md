@@ -44,7 +44,7 @@ There's now a call for participation to [display all methods of a type, even tho
 # Waiting for merge
 
 * [@frewsxcv](https://github.com/frewsxcv) made a ["minor" librustdoc cleanup and refactoring](https://github.com/rust-lang/rust/pull/36903).
-* [@BlueSpaceCanary](https://github.com/BlueSpaceCanary] removed [the double introduction for `cargo run`](https://github.com/rust-lang/rust/pull/36878).
+* [@BlueSpaceCanary](https://github.com/BlueSpaceCanary) removed [the double introduction for `cargo run`](https://github.com/rust-lang/rust/pull/36878).
 * [@gavinb](https://github.com/gavinb) improved [error message and snippet for "did you mean `x`"](https://github.com/rust-lang/rust/pull/36798).
 * [@green-coder](https://github.com/green-coder) updated [example code in the documentation](https://github.com/rust-lang/rust/pull/36746).
 * [@QuietMisdreavus](https://github.com/QuietMisdreavus) updated rustdoc [to print non-self arguments of bare functions and struct methods on their own line](https://github.com/rust-lang/rust/pull/36679).
