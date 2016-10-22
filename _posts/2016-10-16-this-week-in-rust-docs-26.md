@@ -65,20 +65,6 @@ There's now a call for participation to [display all methods of a type, even tho
 * [@QuietMisdreavus](https://github.com/QuietMisdreavus) updated rustdoc [to print non-self arguments of bare functions and struct methods on their own line](https://github.com/rust-lang/rust/pull/36679).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [missing urls in io module](https://github.com/rust-lang/rust/pull/37089), added [missing urls on String module](https://github.com/rust-lang/rust/pull/37073), added [missing urls for BufWriter and BufReader](https://github.com/rust-lang/rust/pull/37115), added [missing urls in slice doc module](https://github.com/rust-lang/rust/pull/36982) and added [missing urls for hash modules](https://github.com/rust-lang/rust/pull/36961).
 
-
-
-* [@chamoysvoice](https://github.com/chamoysvoice) updated [E0220 error format](https://github.com/rust-lang/rust/pull/36862).
-* [@ollie27](https://github.com/ollie27) fixed [missing *mut T impl in rustdoc](https://github.com/rust-lang/rust/pull/36966).
-* [@acrrd](https://github.com/acrrd) made [a better underline for E0057, E0060 and E0061](https://github.com/rust-lang/rust/pull/36222).
-* [@angelsl](https://github.com/angelsl) mentioned [`move` keyword for lambdas in Reference](https://github.com/rust-lang/rust/pull/36929) and clarified [last element in str.{r,}splitn documentation](https://github.com/rust-lang/rust/pull/36930).
-* [@wesleywiser](https://github.com/wesleywiser) fixed [documentation for `write!` on `std::fmt` page](https://github.com/rust-lang/rust/pull/36937).
-* [@frewsxcv](https://github.com/frewsxcv) made a ["minor" librustdoc cleanup and refactoring](https://github.com/rust-lang/rust/pull/36903).
-* [@BlueSpaceCanary](https://github.com/BlueSpaceCanary) removed [the double introduction for `cargo run`](https://github.com/rust-lang/rust/pull/36878).
-* [@gavinb](https://github.com/gavinb) improved [error message and snippet for "did you mean `x`"](https://github.com/rust-lang/rust/pull/36798).
-* [@kmcallister](https://github.com/kmcallister) updated [Arc docs to match new Rc docs](https://github.com/rust-lang/rust/pull/36665).
-* [@christopherdumas](https://github.com/christopherdumas) updated [`includes!` documentation](https://github.com/rust-lang/rust/pull/36404).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [run button appearing when it shouldn't](https://github.com/rust-lang/rust/pull/36637), merged [E0002 into E0004](https://github.com/rust-lang/rust/pull/36909), added [missing urls for error module](https://github.com/rust-lang/rust/pull/36928), fixed [typos](https://github.com/rust-lang/rust/pull/36908) and removed [underline when run button hovered](https://github.com/rust-lang/rust/pull/37003).
-
 # Meetings
 
 Next meeting will be on Wednesday 17th of October 2016 at 20:00 GMT on #rust-docs channel on irc.mozilla.org. Feel free to come!
