@@ -210,7 +210,7 @@ def clear_msg(msg):
 
 def create_msg(title):
     title = title.split()
-    return "%s [%s]" % (title[0], " ".join(title[1:]))
+    return "%s [%s]" % (title[0][:1].lower() + title[0][1:], " ".join(title[1:]))
 
 
 def check_if_not_in(elems, url):
@@ -260,12 +260,13 @@ def get_next_meeting(d):
               11: 'November',
               12: 'December'}
     end = 'th'
-    if d.day % 10 == 1:
-        end = 'st'
-    elif d.day % 10 == 2:
-        end = 'nd'
-    elif d.day % 10 == 3:
-        end = 'rd'
+    if d.day != 11 and d.day != 12 and d.day != 13:
+        if d.day % 10 == 1:
+            end = 'st'
+        elif d.day % 10 == 2:
+            end = 'nd'
+        elif d.day % 10 == 3:
+            end = 'rd'
     return '%s%s of %s %s' % (d.day, end, months[d.month], d.year)
 
 if len(sys.argv) < 2:
