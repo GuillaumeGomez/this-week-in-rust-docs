@@ -75,7 +75,7 @@ There's now a call for participation to [display all methods of a type, even tho
 * [@euclio](https://github.com/euclio) removed [deprecated text for unstable docs](https://github.com/rust-lang/rust/pull/37758).
 * [@polo-language](https://github.com/polo-language) improved [punctuation, capitalization, and sentence structure of code snippet comments](https://github.com/rust-lang/rust/pull/37755).
 * [@QuietMisdreavus](https://github.com/QuietMisdreavus) folded [fields for enum struct variants into a docblock in rustdoc](https://github.com/rust-lang/rust/pull/37728).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) improved [reference cast help message(https://github.com/rust-lang/rust/pull/37375), added [net examples](https://github.com/rust-lang/rust/pull/37806) and uncommented [some long error explanation](https://github.com/rust-lang/rust/pull/37757).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) improved [reference cast help message](https://github.com/rust-lang/rust/pull/37375), added [net examples](https://github.com/rust-lang/rust/pull/37806) and uncommented [some long error explanation](https://github.com/rust-lang/rust/pull/37757).
 
 # Meetings
 
