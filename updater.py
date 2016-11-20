@@ -90,8 +90,8 @@ def get_all_contents(url, state, max_date, token=None, recursive=True):
                                 (res.headers['X-RateLimit-Limit'],
                                  res.headers['X-RateLimit-Remaining'],
                                  res.headers['X-RateLimit-Reset']))
-        raise Exception("Get request failed, got: [%s]: %s"
-                        % (res.status_code, str(res.content)))
+        raise Exception("Get request failed: '%s', got: [%s]: %s"
+                        % (url, res.status_code, str(res.content)))
     content = res.json()
     to_return = []
     filter_data(content, to_return)
@@ -338,9 +338,9 @@ waiting_prs = []
 for line in content[0].split('\n'):
     if line.startswith('* [@'):
         entries = line.split(')')
-        author = entries[0][4:].split(']')[0]
+        author = entries[0][4:].split('](')[0]
         for entry in entries[1:]:
-            parts = entry.split('(')
+            parts = entry.split('](')
             if len(parts) < 2:
                 continue
             waiting_prs.append({'author': author, 'url': parts[1], 'message': clear_msg(parts[0])})
