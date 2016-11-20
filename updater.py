@@ -205,7 +205,7 @@ def clear_msg(msg):
         msg = msg[2:]
     elif msg.startswith(' and '):
         msg = msg[5:]
-    return msg.strip()
+    return "%s]" % msg.strip()
 
 
 def create_msg(title):
