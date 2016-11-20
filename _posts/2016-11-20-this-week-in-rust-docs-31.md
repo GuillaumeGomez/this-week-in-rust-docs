@@ -63,9 +63,9 @@ There's now a call for participation to [display all methods of a type, even tho
 
 # Recent doc contributions
 
-* [@keeperofdakeys](https://github.com/keeperofdakeys) improved [the #[should_panic] feature(https://github.com/rust-lang/rust/pull/37749) and show [a better error when using --test with #[proc_macro_derive]](https://github.com/rust-lang/rust/pull/37826).
-* [@jedireza](https://github.com/jedireza) fixed [grammar typos in ffi.md(https://github.com/rust-lang/rust/pull/37743).
-* [@dns2utf8](https://github.com/dns2utf8) added [grammar verification build command(https://github.com/rust-lang/rust/pull/37607).
+* [@keeperofdakeys](https://github.com/keeperofdakeys) improved [the `#[should_panic]` feature](https://github.com/rust-lang/rust/pull/37749) and show [a better error when using --test with `#[proc_macro_derive]`](https://github.com/rust-lang/rust/pull/37826).
+* [@jedireza](https://github.com/jedireza) fixed [grammar typos in ffi.md](https://github.com/rust-lang/rust/pull/37743).
+* [@dns2utf8](https://github.com/dns2utf8) added [grammar verification build command](https://github.com/rust-lang/rust/pull/37607).
 * [@liigo](https://github.com/liigo) added [cli argument `--playground-url` in rustdoc](https://github.com/rust-lang/rust/pull/37763).
 * [@tshepang](https://github.com/tshepang) fixed [nits and typos on comments in doc](https://github.com/rust-lang/rust/pull/37821).
 * [@robinst](https://github.com/robinst) added [semicolon to "perhaps add a `use` for one of them" help](https://github.com/rust-lang/rust/pull/37759).
