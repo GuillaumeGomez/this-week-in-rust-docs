@@ -41,8 +41,6 @@ There are currently around 70 other documentation issues opened. Look for [A-doc
 * [@ollie27](https://github.com/ollie27) gave [primitive types stability attributes in rustdoc](https://github.com/rust-lang/rust/pull/39076).
 * [@radix](https://github.com/radix) made a [minor improvement to strange grammar in E0525](https://github.com/rust-lang/rust/pull/39072).
 * [@frewsxcv](https://github.com/frewsxcv) added [doc examples & description in `std::os::unix::ffi`.](https://github.com/rust-lang/rust/pull/39065), made [minor improvements to docs in std::env structures/functions.](https://github.com/rust-lang/rust/pull/39028) and added ['platform-specific' section to `sleep_ms` to match `sleep`.](https://github.com/rust-lang/rust/pull/38761).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [missing blank space issue](https://github.com/rust-lang/rust/pull/39069), added [information in case of markdown block code test failure](https://github.com/rust-lang/rust/pull/36320), added [a distinct error code and description for "main function has wrong prototype](https://github.com/rust-lang/rust/pull/38819), added [ref suggestion](https://github.com/rust-lang/rust/pull/37658) and fixed [invalid module suggestion](https://github.com/rust-lang/rust/pull/38255).
-
 * [@jmdyck](https://github.com/jmdyck) added [a link to the second edition of The Book](https://github.com/rust-lang/rust/pull/39043).
 * [@steveklabnik](https://github.com/steveklabnik) fixed [wording around sort guarantees](https://github.com/rust-lang/rust/pull/38961).
 * [@estebank](https://github.com/estebank) taught [diagnostics to highlight text](https://github.com/rust-lang/rust/pull/38955) and provided [disambiguated syntax for candidates in E0034](https://github.com/rust-lang/rust/pull/38168).
@@ -57,6 +55,7 @@ There are currently around 70 other documentation issues opened. Look for [A-doc
 * [@chriskrycho](https://github.com/chriskrycho) documented [RFC 1623: static lifetime elision.](https://github.com/rust-lang/rust/pull/37928).
 * [@utkarshkukreti](https://github.com/utkarshkukreti) replaced [all `try!` with `?` in documentation examples](https://github.com/rust-lang/rust/pull/38648).
 * [@ConnyOnny](https://github.com/ConnyOnny) added warning [for match enum in The Book](https://github.com/rust-lang/rust/pull/38794).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [missing blank space issue](https://github.com/rust-lang/rust/pull/39069), added [information in case of markdown block code test failure](https://github.com/rust-lang/rust/pull/36320), added [a distinct error code and description for "main function has wrong prototype](https://github.com/rust-lang/rust/pull/38819), added [ref suggestion](https://github.com/rust-lang/rust/pull/37658) and fixed [invalid module suggestion](https://github.com/rust-lang/rust/pull/38255).
 
 # Recent doc contributions
 
@@ -68,12 +67,12 @@ There are currently around 70 other documentation issues opened. Look for [A-doc
 * [@Manishearth](https://github.com/Manishearth) improved [rustdoc rendering for unstable features](https://github.com/rust-lang/rust/pull/38843), added [more docs for CoerceUnsized and Unsize](https://github.com/rust-lang/rust/pull/38816) and removed [restrictions on docs in compiler-docs mode](https://github.com/rust-lang/rust/pull/38929).
 * [@F001](https://github.com/F001) updated [usage of rustc](https://github.com/rust-lang/rust/pull/38841).
 * [@ollie27](https://github.com/ollie27) fixed [typo in tuple docs](https://github.com/rust-lang/rust/pull/38836).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [instant doc](https://github.com/rust-lang/rust/pull/38362), added [missing doc examples for Mutex](https://github.com/rust-lang/rust/pull/38965) and added [missing links and examples for path modules and structs](https://github.com/rust-lang/rust/pull/38946).
 * [@stjepang](https://github.com/stjepang) changed [`to_owned` to `to_string` in docs](https://github.com/rust-lang/rust/pull/39024).
 * [@est31](https://github.com/est31) added [tidy check for lang gate tests](https://github.com/rust-lang/rust/pull/38914).
 * [@behnam](https://github.com/behnam) fixed [typo in documentation](https://github.com/rust-lang/rust/pull/39027).
 * [@BenWiederhake](https://github.com/BenWiederhake) fixed [some typos in Nomicon](https://github.com/rust-lang/rust/pull/38994).
 * [@minaguib](https://github.com/minaguib) fixed [docs](https://github.com/rust-lang/rust/pull/38799).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [instant doc](https://github.com/rust-lang/rust/pull/38362), added [missing doc examples for Mutex](https://github.com/rust-lang/rust/pull/38965) and added [missing links and examples for path modules and structs](https://github.com/rust-lang/rust/pull/38946).
 
 # Meetings
 
