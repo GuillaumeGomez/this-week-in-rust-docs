@@ -27,7 +27,7 @@ The topic to propose crates for the Rust Doc Days is still open and waiting for 
 
 # Current opened issues
 
-For now, here are the three big issues for Rust documentation:
+For now, here are the two big issues for Rust documentation:
 
 * [The Standard Library Documentation Checklist](https://github.com/rust-lang/rust/issues/29329)
 * [Add error explanations for all error codes](https://github.com/rust-lang/rust/issues/32777)
