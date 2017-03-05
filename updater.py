@@ -338,12 +338,12 @@ waiting_prs = []
 for line in content[0].split('\n'):
     if line.startswith('* [@'):
         entries = line.split(')')
-        author = entries[0][4:].split('](')[0]
+        author = entries[0][4:].split('](h')[0]
         for entry in entries[1:]:
-            parts = entry.split('](')
+            parts = entry.split('](h')
             if len(parts) < 2:
                 continue
-            waiting_prs.append({'author': author, 'url': parts[1], 'message': clear_msg(parts[0])})
+            waiting_prs.append({'author': author, 'url': "h{}".format(parts[1]), 'message': clear_msg(parts[0])})
 
 merged_prs = []
 pos = 0
@@ -370,8 +370,10 @@ for pr in closed_prs:
 sys.stdout.write('Getting opened PRs...\n')
 opened_prs = git.get_pulls('rust', 'rust-lang', 'open', max_date)
 to_keep = []
+for waiting in waiting_prs:
+    to_keep.append(waiting)
 for pr in opened_prs:
-    if check_if_not_in(waiting_prs, opened_prs[pos].get_url()):
+    if check_if_not_in(to_keep, opened_prs[pos].get_url()):
         to_keep.append({'author': pr.author,
                         'url': pr.get_url(),
                         'message': create_msg(pr.title)})
