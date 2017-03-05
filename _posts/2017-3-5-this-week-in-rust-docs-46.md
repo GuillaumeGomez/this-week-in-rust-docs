@@ -42,7 +42,7 @@ There are currently around 70 other documentation issues opened. Look for [A-doc
 * [@brson](https://github.com/brson) added [release notes for 1.16](https://github.com/rust-lang/rust/pull/39835).
 * [@Dowwie](https://github.com/Dowwie) updated [attributes.md - Last sentence updated to reflect support for custom attributes](https://github.com/rust-lang/rust/pull/39691).
 * [@APTy](https://github.com/APTy) added [docs and tests for join_multicast_{v4,v6}](https://github.com/rust-lang/rust/pull/39007).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [invalid module suggestion](https://github.com/rust-lang/rust/pull/38255).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [missing urls and small nits](https://github.com/rust-lang/rust/pull/39513), improved [invalid call on non-function error message](https://github.com/rust-lang/rust/pull/39814), fixed [invalid module suggestion](https://github.com/rust-lang/rust/pull/38255) and added [ref suggestion](https://github.com/rust-lang/rust/pull/37658).
 
 # Recent doc contributions
 
