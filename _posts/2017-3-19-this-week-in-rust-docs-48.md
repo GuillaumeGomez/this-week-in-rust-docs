@@ -12,8 +12,8 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 And of course, don't forget to look at the docs:
 
 * [Stable](https://doc.rust-lang.org/)
-* [Beta](http://doc.rust-lang.org/beta/)
-* [Nightly](http://doc.rust-lang.org/nightly/)
+* [Beta](https://doc.rust-lang.org/beta/)
+* [Nightly](https://doc.rust-lang.org/nightly/)
 
 This week's edition was edited by [Guillaume Gomez](https://github.com/GuillaumeGomez).
 
