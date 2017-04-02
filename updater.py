@@ -373,7 +373,7 @@ to_keep = []
 for waiting in waiting_prs:
     to_keep.append(waiting)
 for pr in opened_prs:
-    if check_if_not_in(to_keep, opened_prs[pos].get_url()):
+    if check_if_not_in(to_keep, pr.get_url()):
         to_keep.append({'author': pr.author,
                         'url': pr.get_url(),
                         'message': create_msg(pr.title)})
