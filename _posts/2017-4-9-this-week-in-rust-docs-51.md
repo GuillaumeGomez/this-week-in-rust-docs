@@ -68,7 +68,7 @@ There are currently around 70 other documentation issues opened. Look for [A-doc
 * [@euclio](https://github.com/euclio) collapsed [docblock before showing label in rustdoc](https://github.com/rust-lang/rust/pull/41131).
 * [@rap2hpoutre](https://github.com/rap2hpoutre) added [example to std::process::abort](https://github.com/rust-lang/rust/pull/41090).
 * [@steveklabnik](https://github.com/steveklabnik) fixed [links](https://github.com/rust-lang/rust/pull/41066).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [support for image, rules and footnotes in the new rustdoc markdown renderer](https://github.com/rust-lang/rust/pull/40919), fixed [mutex's docs inconsistency](https://github.com/rust-lang/rust/pull/40608) and replaced [^ with <sup> html balise](https://github.com/rust-lang/rust/pull/41043).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [support for image, rules and footnotes in the new rustdoc markdown renderer](https://github.com/rust-lang/rust/pull/40919), fixed [mutex's docs inconsistency](https://github.com/rust-lang/rust/pull/40608) and replaced ["^" with "<sup>" html balise](https://github.com/rust-lang/rust/pull/41043).
 
 # Meetings
 
