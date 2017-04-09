@@ -32,7 +32,7 @@ For now, here are the two big issues for Rust documentation:
 
 They all need help to move forward so any contribution is very welcome!
 
-There are currently around 70 other documentation issues opened. Look for [A-docs](https://github.com/rust-lang/rust/issues?q=is%3Aopen+is%3Aissue+label%3AA-docs) tagged issues on GitHub!
+There are currently around 70 other documentation issues opened. Look for [T-doc](https://github.com/rust-lang/rust/labels/T-doc) tagged issues on GitHub!
 
 # Waiting for merge
 
