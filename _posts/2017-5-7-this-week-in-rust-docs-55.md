@@ -42,7 +42,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 * [@abonander](https://github.com/abonander) documented [the `proc_macro` feature in the Unstable Book](https://github.com/rust-lang/rust/pull/41476).
 * [@mandeep](https://github.com/mandeep) added [generic example of std::ops::Add in doc comments](https://github.com/rust-lang/rust/pull/41612).
 * [@brson](https://github.com/brson) updated [release notes for 1.17](https://github.com/rust-lang/rust/pull/41548).
-* [@steveklabnik](https://github.com/steveklabnik) improved [docs on Arc<T> and Send/Sync](https://github.com/rust-lang/rust/pull/41536) and added [more ways to create a PathBuf to docs](https://github.com/rust-lang/rust/pull/41531).
+* [@steveklabnik](https://github.com/steveklabnik) improved [docs on `Arc<T>` and Send/Sync](https://github.com/rust-lang/rust/pull/41536) and added [more ways to create a PathBuf to docs](https://github.com/rust-lang/rust/pull/41531).
 * [@Mark-Simulacrum](https://github.com/Mark-Simulacrum) allowed [# to appear in rustdoc code output.](https://github.com/rust-lang/rust/pull/41785) and made a [minor cleanup of UX guidelines.](https://github.com/rust-lang/rust/pull/41791).
 * [@Idolf](https://github.com/Idolf) supported [#![deny(missing_docs)] together with #[proc_macro_derive]](https://github.com/rust-lang/rust/pull/41747).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) reduced [HTML output in rustdoc](https://github.com/rust-lang/rust/pull/41384), added [better error message when == operator is badly used](https://github.com/rust-lang/rust/pull/41559), added [help message if a FnOnce is moved](https://github.com/rust-lang/rust/pull/41772) and made [--extend-css stable](https://github.com/rust-lang/rust/pull/41700).
