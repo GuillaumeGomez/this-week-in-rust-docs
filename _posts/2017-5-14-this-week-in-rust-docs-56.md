@@ -63,7 +63,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 * [@Migi](https://github.com/Migi) fixed [typo in subst.rs](https://github.com/rust-lang/rust/pull/41842).
 * [@z1mvader](https://github.com/z1mvader) fixed [argument inference for closures when coercing into 'fn'](https://github.com/rust-lang/rust/pull/41838).
 * [@jz0425](https://github.com/jz0425) updated [rustc-ux-guidelines](https://github.com/rust-lang/rust/pull/41836).
-* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [anchor invalid redirection to search](https://github.com/rust-lang/rust/pull/41950), added [markdown-[before|after]-content options](https://github.com/rust-lang/rust/pull/41826), fixed [search when looking to sources](https://github.com/rust-lang/rust/pull/41921) and improved [E0477 error message](https://github.com/rust-lang/rust/pull/41862).
+* [@GuillaumeGomez](https://github.com/GuillaumeGomez) fixed [anchor invalid redirection to search](https://github.com/rust-lang/rust/pull/41950), added [markdown-before|after-content options](https://github.com/rust-lang/rust/pull/41826), fixed [search when looking to sources](https://github.com/rust-lang/rust/pull/41921) and improved [E0477 error message](https://github.com/rust-lang/rust/pull/41862).
 
 # Meetings
 
