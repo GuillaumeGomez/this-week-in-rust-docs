@@ -15,7 +15,7 @@ Here are the members of our team:
 
  * [Steve Klabnik](https://github.com/steveklabnik) (Team leader)
  * [Guillaume Gomez](https://github.com/GuillaumeGomez)
- * [Jonathan Turner](https://github.com/jonathandturner)
- * [Jeremiah Peschka](https://github.com/peschkaj)
+ * [Corey Farwell](https://github.com/frewsxcv)
+ * [QuietMisdreavus](https://github.com/QuietMisdreavus)
 
 If you want to contact us, do it through github (by opening an issue on [rust-lang](https://github.com/rust-lang/rust)) or contact us through IRC on #rust-docs channel on irc.mozilla.org server.
