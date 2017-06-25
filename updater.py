@@ -42,9 +42,9 @@ def get_next_pages_url(link):
     for sub in subs:
         if len(sub) != 2:
             continue
-        if sub[1].ends_with('"next"'):
+        if sub[1].endswith('"next"'):
             next_page_url = sub[0][1:-1]
-        elif sub[1].ends_with('"last"'):
+        elif sub[1].endswith('"last"'):
             last_page_url = sub[0][1:-1]
     return next_page_url, last_page_url
 
@@ -205,6 +205,8 @@ def clear_msg(msg):
         msg = msg[2:]
     elif msg.startswith(' and '):
         msg = msg[5:]
+    if msg.endswith('.'):
+        msg = msg[:-1]
     return "%s]" % msg.strip()
 
 
