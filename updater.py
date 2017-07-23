@@ -300,7 +300,7 @@ if file_path is None:
     sys.stderr.write('No post file found\n')
     sys.exit(1)
 
-sys.stdout.write('Taking last this week in rust docs post: %s\n' % file_path)
+sys.stdout.write('Taking last "this week in rust docs" post: %s\n' % file_path)
 
 from_date = file_path.replace("_posts/", "").split('-this-week-in-rust')[0].replace(".md", "").split("-")
 if len(from_date) != 3:
