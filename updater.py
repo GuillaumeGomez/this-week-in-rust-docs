@@ -27,8 +27,8 @@ def get_page_number(url):
         if part.startswith('page='):
             try:
                 return int(part.split('=')[-1])
-            except Exception:
-                return 1
+            except:
+                break
     return 1
 
 
@@ -49,7 +49,7 @@ def get_next_pages_url(link):
     return next_page_url, last_page_url
 
 
-def filter_data(content, to_return):
+def filter_data(content, to_return, max_date):
     total = 0
     if content.__class__.__name__ == 'dict':
         return
@@ -94,7 +94,7 @@ def get_all_contents(url, state, max_date, token=None, recursive=True):
                         % (url, res.status_code, str(res.content)))
     content = res.json()
     to_return = []
-    filter_data(content, to_return)
+    filter_data(content, to_return, max_date)
     if 'Link' not in res.headers or not recursive:
         # If there are no other pages, we can return the current content.
         if max_date is None:
