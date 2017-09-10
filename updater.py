@@ -201,16 +201,20 @@ class PullRequest:
 
 
 def clear_msg(msg):
+    while msg.startswith(' '):
+        msg = msg[1:]
     if msg.startswith(', '):
         msg = msg[2:]
-    elif msg.startswith(' and '):
-        msg = msg[5:]
-    if msg.endswith('.'):
+    elif msg.startswith('and '):
+        msg = msg[4:]
+    while msg.endswith('.'):
         msg = msg[:-1]
     return "%s]" % msg.strip()
 
 
 def create_msg(title):
+    while title.endswith('.'):
+        title = title[:-1]
     title = title.split()
     return "%s [%s]" % (title[0][:1].lower() + title[0][1:], " ".join(title[1:]))
 
@@ -341,11 +345,19 @@ for line in content[0].split('\n'):
     if line.startswith('* [@'):
         entries = line.split(')')
         author = entries[0][4:].split('](h')[0]
-        for entry in entries[1:]:
-            parts = entry.split('](h')
-            if len(parts) < 2:
-                continue
-            waiting_prs.append({'author': author, 'url': "h{}".format(parts[1]), 'message': clear_msg(parts[0])})
+        tmp = line.replace(entries[0] + ')', '')
+        entries = tmp.split('](h')
+        tmp = 0
+        while tmp < len(entries):
+            if entries[tmp].endswith('.'):
+                break
+            entry = entries[tmp]
+            if tmp > 0:
+                entry = ')'.join(entries[tmp].split(')')[1:])
+            waiting_prs.append({'author': author,
+                                'url': "h{}".format(entries[tmp + 1].split(')')[0]),
+                                'message': clear_msg(entry)})
+            tmp += 1
 
 merged_prs = []
 pos = 0
