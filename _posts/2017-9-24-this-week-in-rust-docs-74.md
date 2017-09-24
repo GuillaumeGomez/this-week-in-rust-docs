@@ -46,7 +46,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 * [@napen123](https://github.com/napen123) added [doc example to HashMap::hasher](https://github.com/rust-lang/rust/pull/44794).
 * [@lucasem](https://github.com/lucasem) made [docs improvement in std::sync::{PoisonError, TryLockError}](https://github.com/rust-lang/rust/pull/44797).
 * [@tirr-c](https://github.com/tirr-c) made [a friendlier error message for closure argument type mismatch](https://github.com/rust-lang/rust/pull/44735).
-* [@estebank](https://github.com/estebank) pointed [at parameter type on E0301](https://github.com/rust-lang/rust/pull/44782
+* [@estebank](https://github.com/estebank) pointed [at parameter type on E0301](https://github.com/rust-lang/rust/pull/44782].
 * [@budziq](https://github.com/budziq) corrected [the CONTRIBUTING.md "External Dependencies" section](https://github.com/rust-lang/rust/pull/44664).
 * [@GuillaumeGomez](https://github.com/GuillaumeGomez) added [short error message-format](https://github.com/rust-lang/rust/pull/44636) and fixed [warning position in rustdoc code blocks](https://github.com/rust-lang/rust/pull/44789).
 
