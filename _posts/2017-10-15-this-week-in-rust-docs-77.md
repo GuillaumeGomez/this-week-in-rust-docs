@@ -51,7 +51,8 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 # Recent doc contributions
 
 * [@QuietMisdreavus](https://github.com/QuietMisdreavus) documented [trait impls when the type appears in the trait's generics](https://github.com/rust-lang/rust/pull/44969) and let [rustdoc print the crate version into docs](https://github.com/rust-lang/rust/pull/44989).
-* [@kennytm](https://github.com/kennytm) improved [doc-test: in Markdown tests, Use all of `<h1>` to `<h6>` as the test name](https://github.com/rust-lang/rust/pull/44867) and improved [docs for CStr, CString, OsStr, OsString](https://github.com/rust-lang/rust/pull/44855).
+* [@kennytm](https://github.com/kennytm) improved [doc-test: in Markdown tests, Use all of `<h1>` to `<h6>` as the test name](https://github.com/rust-lang/rust/pull/44867).
+* [@federicomenaquintero](https://github.com/federicomenaquintero) improved [docs for CStr, CString, OsStr, OsString](https://github.com/rust-lang/rust/pull/44855).
 * [@shepmaster](https://github.com/shepmaster) don't [encourage people to ignore threading errors in the docs](https://github.com/rust-lang/rust/pull/44962).
 * [@oli-obk](https://github.com/oli-obk) upgraded [some comments to doc comments](https://github.com/rust-lang/rust/pull/45172).
 * [@petrochenkov](https://github.com/petrochenkov) fixed [a mistake in release notes for 1.21.0](https://github.com/rust-lang/rust/pull/45171).
