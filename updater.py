@@ -393,6 +393,8 @@ for pr in opened_prs:
                         'message': create_msg(pr.title)})
 opened_prs = to_keep
 
+# Considering that we run this generator on Sunday, we add the number of days between Sunday and
+# the day of the meeting.
 d = {0: 1,
      1: 0,
      2: 6,
