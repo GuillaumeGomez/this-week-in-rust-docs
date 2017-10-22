@@ -393,19 +393,21 @@ for pr in opened_prs:
                         'message': create_msg(pr.title)})
 opened_prs = to_keep
 
-d = {0: 2,
-     1: 1,
-     2: 0,
-     3: 6,
-     4: 5,
-     5: 4,
-     6: 3}[today.weekday()]
+# Considering that we run this generator on Sunday, we add the number of days between Sunday and
+# the day of the meeting.
+d = {0: 1,
+     1: 0,
+     2: 6,
+     3: 5,
+     4: 4,
+     5: 3,
+     6: 2}[today.weekday()]
 d = today + timedelta(days=d)
 
 sys.stdout.write('Formatting all these data...\n')
 out += '# Waiting for merge\n\n%s\n' % get_prs_display(opened_prs)
 out += '# Recent doc contributions\n\n%s\n' % get_prs_display(merged_prs)
-out += '# Meetings\n\nNext meeting will be on Wednesday %s at 20:00 GMT on ' % get_next_meeting(d)
+out += '# Meetings\n\nNext meeting will be on Tuesday %s at 19:00 UTC on ' % get_next_meeting(d)
 out += '#rust-docs channel on irc.mozilla.org. Feel free to come!\n'
 
 filename = '_posts/%s-%s-%s-this-week-in-rust-docs-%s.md' % (today.year, today.month, today.day, file_num + 1)
