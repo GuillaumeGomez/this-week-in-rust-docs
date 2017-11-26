@@ -37,7 +37,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 
 * [@estebank](https://github.com/estebank) highlighted [code on diagnostics when underlined](https://github.com/rust-lang/rust/pull/45776), accounted [for missing keyword in fn/struct definition](https://github.com/rust-lang/rust/pull/45997), displayed [`\t` in diagnostics code as four spaces](https://github.com/rust-lang/rust/pull/45953), highlighted [code on diagnostics when underlined](https://github.com/rust-lang/rust/pull/45752), suggest3e [using slice when encountering `let x = ""[..];`](https://github.com/rust-lang/rust/pull/46249) and used [suggestions instead of notes ref mismatches](https://github.com/rust-lang/rust/pull/46256).
 * [@JRegimbal](https://github.com/JRegimbal) changed ["Types/modules" title of search tab to be more accurate](https://github.com/rust-lang/rust/pull/45898).
-* [@colinmarsh19](https://github.com/colinmarsh19) removed [semicolon note](https://github.com/rust-lang/rust/pull/46258).
+* [@colinmarsh19](https://github.com/colinmarsh19) added [a note "please remove this semicolon"](https://github.com/rust-lang/rust/pull/46258).
 * [@canndrew](https://github.com/canndrew) added [docs for never primitive](https://github.com/rust-lang/rust/pull/46232).
 * [@ExpHP](https://github.com/ExpHP) made [doc stubs for builtin macros reflect existing support for trailing commas](https://github.com/rust-lang/rust/pull/46260).
 * [@tbu-](https://github.com/tbu-) clarified [what `-D warnings` or `-F warnings` does](https://github.com/rust-lang/rust/pull/46136).
