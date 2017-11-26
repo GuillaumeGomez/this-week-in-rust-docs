@@ -53,7 +53,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 * [@estebank](https://github.com/estebank) used [the proper term when using non-existing variant](https://github.com/rust-lang/rust/pull/46024), used [multiline text for crate conflict diagnostics](https://github.com/rust-lang/rust/pull/45946) and removed [dereference suggestion on tuple argument](https://github.com/rust-lang/rust/pull/45947).
 * [@fhartwig](https://github.com/fhartwig) made [rustdoc not include self-by-value methods from Deref target](https://github.com/rust-lang/rust/pull/45645).
 * [@oli-obk](https://github.com/oli-obk) added [structured suggestions for various "use" suggestions](https://github.com/rust-lang/rust/pull/46035), included [rendered diagnostic in json](https://github.com/rust-lang/rust/pull/46052) and checked [//~ERROR comments in ui tests](https://github.com/rust-lang/rust/pull/46116).
-* [@sinkuu](https://github.com/sinkuu) added [doc for doing `Read` from `&str`](https://github.com/rust-lang/rust/pull/46088).
+* [@vitiral](https://github.com/vitiral) added [doc for doing `Read` from `&str`](https://github.com/rust-lang/rust/pull/46088).
 * [@ollie27](https://github.com/ollie27) fixed [broken CSS for book redirect pages](https://github.com/rust-lang/rust/pull/45998).
 * [@steveklabnik](https://github.com/steveklabnik) amended [RELEASES for 1.22.1](https://github.com/rust-lang/rust/pull/46190).
 * [@aqrln](https://github.com/aqrln) fixed [a typo in ToSocketAddrs documentation](https://github.com/rust-lang/rust/pull/46141).
