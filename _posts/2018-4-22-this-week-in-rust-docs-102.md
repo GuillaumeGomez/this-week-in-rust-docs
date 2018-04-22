@@ -19,7 +19,7 @@ This week's edition was edited by [Guillaume Gomez](https://github.com/Guillaume
 
 # Latest news
 
-We added [settings into generated documentation](ttps://github.com/rust-lang/rust/pull/49954) so you can have your own setup. We'll add more options soon to make rust documentation browsing more personal and comfortable for everyone!
+We added [settings into generated documentation](https://github.com/rust-lang/rust/pull/49954) so you can have your own setup. We'll add more options soon to make rust documentation browsing more personal and comfortable for everyone!
 
 # Current opened issues
 
