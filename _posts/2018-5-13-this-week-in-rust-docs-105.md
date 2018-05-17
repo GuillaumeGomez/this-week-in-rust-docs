@@ -27,7 +27,7 @@ For now, here are the three big issues for Rust documentation:
 
 * [The Standard Library Documentation Checklist](https://github.com/rust-lang/rust/issues/29329)
 * [Add error explanations for all error codes](https://github.com/rust-lang/rust/issues/32777)
-* [Document all features in the Rust reference](https://github.com/rust-lang-nursery/reference/issues/9)
+* [Document all features in the Rust reference](https://github.com/rust-lang-nursery/reference/projects/1)
 
 They all need help to move forward so any contribution is very welcome!
 
