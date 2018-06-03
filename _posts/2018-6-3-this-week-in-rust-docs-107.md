@@ -38,7 +38,7 @@ There are currently around 70 other documentation issues opened. Look for [T-doc
 * [@fkjogu](https://github.com/fkjogu) documented [round-off error in `.mod_euc()`-method](https://github.com/rust-lang/rust/pull/50342).
 * [@petrochenkov](https://github.com/petrochenkov) added [deprecation lint for duplicated `macro_export`s](https://github.com/rust-lang/rust/pull/50143) and stabilize [`use_extern_macros`](https://github.com/rust-lang/rust/pull/50911).
 * [@mandeep](https://github.com/mandeep) added [doc comment to hiding portions of code example](https://github.com/rust-lang/rust/pull/50852).
-* [@ogham](https://github.com/ogham) documented [Vec's particular IntoIter behaviour](https://github.com/rust-lang/rust/pull/51156), mentionned [spec and indented blocks in doctest docs](https://github.com/rust-lang/rust/pull/51158) and l
+* [@ogham](https://github.com/ogham) documented [Vec's particular IntoIter behaviour](https://github.com/rust-lang/rust/pull/51156), mentioned [spec and indented blocks in doctest docs](https://github.com/rust-lang/rust/pull/51158).
 * [@kennytm](https://github.com/kennytm) pointed [to the rustdoc attribute where intralink resolution failed](https://github.com/rust-lang/rust/pull/51111).
 * [@teiesti](https://github.com/teiesti) updated [rustdoc book to suggest using Termination trait instead of hidden ‘foo’ function](https://github.com/rust-lang/rust/pull/51183).
 * [@kornelski](https://github.com/kornelski) used [String, not &str in some collection examples](https://github.com/rust-lang/rust/pull/51081).
